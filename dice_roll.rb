@@ -1,5 +1,5 @@
-def roll(1..6)
- 
+def roll
+ rand(1..6)
 end
 
 roll
